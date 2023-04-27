@@ -537,12 +537,11 @@ In \par
  &          &        &                             & & &\\ \cline{4-7}
  &          &        & {\@thirdreader}             & & &\\
 %comment the next three lines if you don't declare a fourth reader
- &          &        &                             & & &\\
- &          &        &                             & & &\\ \cline{4-7}
- &          &        & {\@fourthreader}            & & &\\
+ % &          &        &                             & & &\\
+ % &          &        &                             & & &\\ \cline{4-7}
+ % &          &        & {\@fourthreader}            & & &\\
  &          &        &                             & & &\\ \cline{1-2}
-%\small{Dean of the College \phantom{ CAS or SPA}} & & & & & \\ 
-\small{\deansigline} & & & & & \\ 
+\small{Dean of the College of Arts and Sciences} & & & & & \\ 
  &          &                             & & &\\
                                             & & & & & \\ \cline{1-2}
  \small{Date}                               & & & & & \\
