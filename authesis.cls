@@ -514,10 +514,8 @@ the Requirements for the Degree \par
 of {\@degree} \par
 In \par
 {\@degreefield}\par
+Chair:\par
 }
-
-\vspace{0.4in}
-
 
 %%% Approval lines.
 % ABC  I did this with the tabular environment because
@@ -528,7 +526,7 @@ In \par
 \ssp
 \parindent\z@ 
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} l r r l l l r }
- &          & Chair: &                             & & &\\\cline{4-7}
+ &          &        &                             & & &\\\cline{4-7}
  &          &        & {\@chair}                   & & &\\
  &          &        &                             & & &\\
  &          &        &                             & & &\\ \cline{4-7}
