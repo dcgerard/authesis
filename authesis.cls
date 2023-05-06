@@ -539,10 +539,10 @@ Chair:\par
  % &          &        &                             & & &\\ \cline{4-7}
  % &          &        & {\@fourthreader}            & & &\\
  &          &        &                             & & &\\ \cline{1-2}
-\small{Dean of the College of Arts and Sciences} & & & & & \\ 
- &          &                             & & &\\
-                                            & & & & & \\ \cline{1-2}
- \small{Date}                               & & & & & \\
+\small{Dean of the College of Arts and Sciences} & & & & & & \\ 
+ &          &                             & & & &\\
+                                            & & & & & & \\ \cline{1-2}
+ \small{Date}                               & & & & & & \\
 \end{tabular*}
 }%%end approval lines
 
