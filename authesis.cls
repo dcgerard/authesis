@@ -393,7 +393,7 @@ au-cms.sty is not supported. Please use natbib.sty for your bibliography.}
 % \tableofcontents:
 \newcommand\contentsname{TABLE OF CONTENTS}   % capitalization required by Guide
 % \listoffigures:
-\newcommand\listfigurename{LIST OF FIGURES}   % capitalization required by Guide
+\newcommand\listfigurename{LIST OF ILLUSTRATIONS}   % capitalization required by Guide
 % \listoftables:
 \newcommand\listtablename{LIST OF TABLES}     % capitalization required by Guide
 % \thebibliography:  see natbib.cfg!!
