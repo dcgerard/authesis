@@ -510,8 +510,8 @@ Submitted to the \par
 Faculty of the \schoolorcollege \par   
 of American University \par                        
 in Partial Fulfillment of \par                     
-the Requirements for the Degree \par               
-of {\@degree} \par
+the Requirements for the Degree of \par               
+{\@degree} \par
 In \par
 {\@degreefield}\par
 Chair:\par
